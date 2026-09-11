@@ -1,2 +1,5 @@
 # test-labs
-to test IT stuff
+For testing IT stuff
+<br>
+To do R&D tasks
+
